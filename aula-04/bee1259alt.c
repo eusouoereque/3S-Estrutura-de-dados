@@ -1,3 +1,20 @@
+//PROBLEMA:
+//1259 - Pares e Ímpares
+//RESPOSTA:
+//Accepted
+//LINGUAGEM:
+//C99 (gcc 4.8.5, -std=c99 -O2 -lm) [+0s]
+//TEMPO:
+//0.075s
+//TAMANHO:
+//804 Bytes
+//MEMÓRIA:
+//-
+//SUBMISSÃO:
+//11/03/2024 22:02:36
+
+// 804048   eusouoereque
+
 #include <stdio.h>
 #include <stdlib.h>
 
